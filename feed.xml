@@ -16,15 +16,27 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Episode 3: ACCC's Interim Report on the Grocery Inquiry</title>
+      <itunes:author>Nick Twort</itunes:author>
+      <description>
+        In our newest episode, we delve into the ACCC's interim report for the grocery inquiry, examining the findings on competition, pricing, and market dynamics in Australia's grocery sector.
+      </description>
+      <enclosure url="https://nwbort.github.io/acccidental-podcast/groceries.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://nwbort.github.io/acccidental-podcast/episode3</guid>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <itunes:duration>00:18:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Episode 2: Examining Multimodal Foundation Models</title>
       <itunes:author>Nick Twort</itunes:author>
       <description>
-        In our latest episode, we dive into the paper 'Examination of technology: Multimodal Foundation Models' by DP-REG, exploring the implications of this cutting-edge technology on regulatory landscapes.
+        In this episode, we dive into the paper 'Examination of technology: Multimodal Foundation Models' by DP-REG, exploring the implications of this cutting-edge technology on regulatory landscapes.
       </description>
-      <enclosure url="https://nwbort.github.io/acccidental-podcast/dpreg.mp3" length="8274980" type="audio/mpeg"/>
+      <enclosure url="https://nwbort.github.io/acccidental-podcast/dpreg.mp3" length="10000000" type="audio/mpeg"/>
       <guid>https://nwbort.github.io/acccidental-podcast/episode2</guid>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <itunes:duration>00:10:49</itunes:duration>
+      <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
